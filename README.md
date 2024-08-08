@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 ### I’m currently working on 
 <br>Real-Time Chat Application: Developing a feature-rich chat application using WebSockets, focusing on real-time communication, user and room management, and notifications.<br>Cybersecurity Projects: Exploring ethical hacking techniques and building secure applications by implementing advanced security protocols.
 
-<br>👯 I’m looking to collaborate on
+<br>
+### I’m looking to collaborate on
 <br>Open Source Backend Projects: Interested in contributing to projects that involve API development, database management, or enhancing server-side performance.<br>Cybersecurity Initiatives: Keen to collaborate on projects that focus on improving application security, penetration testing, or security audits.<br>🤝 I’m looking for help with
 <br>Advanced Cloud Deployment: Seeking guidance on deploying complex applications using cloud-native technologies like Kubernetes, Docker Swarm, and advanced AWS services.<br>Scalability Solutions: Open to advice or collaboration on designing systems that can handle massive scale, particularly in distributed systems and microservices.
-<br>🌱 I’m currently learning<br>Ethical Hacking & Penetration Testing: Expanding my knowledge in cybersecurity to better understand potential threats and how to protect against them.
+<br>
+### I’m currently learning
+
+<br>Ethical Hacking & Penetration Testing: Expanding my knowledge in cybersecurity to better understand potential threats and how to protect against them.
 <br>Advanced Node.js & NestJS: Deepening my understanding of these technologies to build more robust and scalable backend systems.
 <br>Cloud Architecture: Exploring cloud platforms and services, focusing on AWS and containerization technologies like Docker.
 <br>💬 Ask me about<br>Backend Development: From designing APIs to optimizing databases, I'm passionate about all things backend.
 <br>Cybersecurity Practices: I can share insights on securing applications, implementing authentication systems, and staying updated with security trends.<br>Server-Side Optimization: Whether it’s performance tuning or designing scalable architectures, I’m always up for a discussion.
-<br>⚡ Fun fact
-<br>Code & Coffee: I’m a huge coffee enthusiast and believe that the best ideas come with a good cup of coffee. I’ve even started experimenting with brewing my own blends!<br>
+<br>
+### Fun fact
+<br>Electronics: I’m a huge electronics enthusiast and my first tech touch was from the hardware side. 
+<br>
 
 
 # 💻 Tech Stack:
