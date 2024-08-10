@@ -7,9 +7,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUyNjNjMHIwZndiMHlsOG5vNWFrZ3V0dHA4OHF1cXZudDNwamp6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMOV0GbgEBIKXqo/giphy.webp" alt="presentation" height=300px width=100% />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pertinaz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&margin-w=4)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pertinaz&theme=transparent&hide_border=false&margin-w=4)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&margin-w=4)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pertinaz&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pertinaz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pertinaz&limit=5&theme=transparent&combine_all_yearly_contributions=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pertinaz&icon=5&color=1)](https://visitcount.itsvg.in)
