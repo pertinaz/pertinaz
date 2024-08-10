@@ -1,26 +1,28 @@
 <!--
-**pertinaz/pertinaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
-
-# 🌱
-
-<!--
 #### ⚡ I’m currently working on 
 <br>Real-Time Chat Application: Developing a feature-rich chat application using WebSockets, focusing on real-time communication, user and room management, and notifications.<br>Cybersecurity Projects: Exploring ethical hacking techniques and building secure applications by implementing advanced security protocols.
 <br>
 -->
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pertinaz&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pertinaz&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pertinaz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pertinaz&icon=5&color=1)](https://visitcount.itsvg.in)
+
+
 #### 📫 I’m looking to collaborate on
 <br>Open Source Backend Projects: Interested in contributing to projects that involve API development, database management, or enhancing server-side performance.<br>Cybersecurity Initiatives: Keen to collaborate on projects that focus on improving application security, penetration testing, or security audits.
 <br>
@@ -62,21 +64,5 @@ Here are some ideas to get you started:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pertinaz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pertinaz&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pertinaz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pertinaz&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
