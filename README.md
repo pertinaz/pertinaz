@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [![Stack](https://skillicons.dev/icons?i=figma,react,html,markdown,tailwind,css,astro,next,vite,nodejs,nestjs,expressjs,npm,pnpm,webpack,nginx)](https://skillicons.dev)
 
 # ‎   
-[![Stack](https://skillicons.dev/icons?i=postman,notion,aws,github,git,render,vercel,netlify,postgres,docker)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=postman,notion,aws,github,git,vercel,netlify,postgres,docker)](https://skillicons.dev)
 
 # ‎  
 [![so](https://skillicons.dev/icons?i=windows,linux,kali,mint,ubuntu,arch,vscode,vim)](https://skillicons.dev)
