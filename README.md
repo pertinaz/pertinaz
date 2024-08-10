@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 
 # ‎  
-[![Lang](https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,powershell&)](https://skillicons.dev)
+[![Lang](https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,powershell)](https://skillicons.dev)
 
 # ‎   
 [![Stack](https://skillicons.dev/icons?i=react,flutter,tailwind,css,astro,next,vite,nodejs,nestjs,expressjs,npm,pnpm,webpack,nginx)](https://skillicons.dev)
