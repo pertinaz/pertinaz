@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
 
 # 🌱 About Me:
+
+<!--
 #### ⚡ I’m currently working on 
 <br>Real-Time Chat Application: Developing a feature-rich chat application using WebSockets, focusing on real-time communication, user and room management, and notifications.<br>Cybersecurity Projects: Exploring ethical hacking techniques and building secure applications by implementing advanced security protocols.
 <br>
+-->
 #### 📫 I’m looking to collaborate on
 <br>Open Source Backend Projects: Interested in contributing to projects that involve API development, database management, or enhancing server-side performance.<br>Cybersecurity Initiatives: Keen to collaborate on projects that focus on improving application security, penetration testing, or security audits.
 <br>
@@ -31,8 +34,6 @@ Here are some ideas to get you started:
 <br>Cybersecurity Practices: I can share insights on securing applications, implementing authentication systems, and staying updated with security trends.
 <br>Server-Side Optimization: Whether it’s performance tuning or designing scalable architectures, I’m always up for a discussion.
 <br>
-#### 👯 Fun fact
-Electronics: I’m a huge electronics enthusiast and my first tech touch was from the hardware side. 
 
 # ProLang: 
 [![ProLang](https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,powershell,&perline=4)](https://skillicons.dev)
