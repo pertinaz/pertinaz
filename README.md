@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 # ‎  
 [![so](https://skillicons.dev/icons?i=windows,linux,debian,kali,mint,ubuntu,arch,vscode,pycharm,webstorm)](https://skillicons.dev)
 
-# 💻 Tech Stack:
+# 💻‎  
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
