@@ -4,7 +4,7 @@
 <br>
 -->
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm44cHFoN2g4aTRubzZnNm5mYzEwb2s5bHg5emtzeGxmZW03cXVvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKzANwOfG381OSc/giphy.webp" alt="presentation" height=400px width=100% />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUyNjNjMHIwZndiMHlsOG5vNWFrZ3V0dHA4OHF1cXZudDNwamp6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMOV0GbgEBIKXqo/giphy.webp" alt="presentation" width=100% />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
