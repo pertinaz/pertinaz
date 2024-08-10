@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
 
-# 🌱 About Me:
+# 🌱
 
 <!--
 #### ⚡ I’m currently working on 
