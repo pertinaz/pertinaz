@@ -4,6 +4,7 @@
 <br>
 -->
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVqdjBlOWo5a2Z5czYxanJwMzZzZ3BweWtlanRrMmgzYXUyb2E4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.webp" alt="presentation" width=100% />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -50,7 +51,7 @@
 # ‎  
 [![so](https://skillicons.dev/icons?i=windows,linux,debian,kali,mint,ubuntu,arch,vscode,pycharm,webstorm)](https://skillicons.dev)
 
-# 💻‎  
+#  
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
