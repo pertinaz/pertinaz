@@ -69,5 +69,4 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp
-" alt="presentation" width=100% />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" width=100% />
