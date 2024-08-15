@@ -2,9 +2,12 @@
 #### ⚡ I’m currently working on 
 <br>Real-Time Chat Application: Developing a feature-rich chat application using WebSockets, focusing on real-time communication, user and room management, and notifications.<br>Cybersecurity Projects: Exploring ethical hacking techniques and building secure applications by implementing advanced security protocols.
 <br>
--->
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUyNjNjMHIwZndiMHlsOG5vNWFrZ3V0dHA4OHF1cXZudDNwamp6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMOV0GbgEBIKXqo/giphy.webp" alt="presentation" height=300px width=100% />
+
+-->
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" width=100% />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&margin-w=4)<br/>
@@ -43,13 +46,13 @@
 # ‎   
 [![Stack](https://skillicons.dev/icons?i=html,css,react,tailwind,astro,next,vite,nodejs,nestjs,expressjs,postgres,supabase)](https://skillicons.dev)
 # ‎  
-[![Stack](https://skillicons.dev/icons?i=npm,pnpm,webpack,docker,nginx)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=npm,pnpm,webpack,docker,nginx)](https://skillicons.dev)
 # ‎  
-[![Stack](https://skillicons.dev/icons?i=svg,latex,notion,obsidian,codepen,figma,postman)](https://skillicons.dev)
+[![moreTools](https://skillicons.dev/icons?i=svg,latex,notion,obsidian,codepen,figma,postman)](https://skillicons.dev)
 # ‎   
-[![Stack](https://skillicons.dev/icons?i=aws,gcp,github,git,vercel,netlify)](https://skillicons.dev)
+[![versions](https://skillicons.dev/icons?i=aws,gcp,github,git,vercel,netlify)](https://skillicons.dev)
 # ‎  
-[![so](https://skillicons.dev/icons?i=windows,linux,debian,kali,mint,ubuntu,arch,vscode,pycharm,webstorm)](https://skillicons.dev)
+[![os](https://skillicons.dev/icons?i=windows,linux,debian,kali,mint,ubuntu,arch,vscode,pycharm,webstorm)](https://skillicons.dev)
 
 #  
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
@@ -65,10 +68,3 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-
-<!--
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMwYW1pajI1Z2xhbG5qY21yeGV3dGljd2I1bTQwbmc1aTZya2dwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.webp" alt="presentation" width=100% />
-
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" width=100% />
--->
