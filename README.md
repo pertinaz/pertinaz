@@ -51,7 +51,7 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 [![moreTools](https://skillicons.dev/icons?i=svg,latex,notion,obsidian,codepen,figma,postman)](https://skillicons.dev)
 #‎
 [![versions](https://skillicons.dev/icons?i=aws,gcp,github,git,vercel,netlify)](https://skillicons.dev)
-#‎ 
+# ‎  
 [![os](https://skillicons.dev/icons?i=windows,linux,debian,kali,mint,ubuntu,arch,vscode,pycharm,webstorm)](https://skillicons.dev)
 
 #  
