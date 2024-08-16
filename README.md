@@ -7,7 +7,7 @@
 
 -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" width=100% />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" height= 500% width=100% />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&margin-w=4)<br/>
