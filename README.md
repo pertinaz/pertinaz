@@ -1,9 +1,4 @@
 <!--
-#### ⚡ I’m currently working on 
-<br>Real-Time Chat Application: Developing a feature-rich chat application using WebSockets, focusing on real-time communication, user and room management, and notifications.<br>Cybersecurity Projects: Exploring ethical hacking techniques and building secure applications by implementing advanced security protocols.
-<br>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUyNjNjMHIwZndiMHlsOG5vNWFrZ3V0dHA4OHF1cXZudDNwamp6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMOV0GbgEBIKXqo/giphy.webp" alt="presentation" height=300px width=100% />
 
 -->
 
