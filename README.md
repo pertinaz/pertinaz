@@ -57,4 +57,4 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 -->
 
-[![Lang](https://skillicons.dev/icons?i=homebrew,apple,bash,powershell,linux)](https://skillicons.dev)
+[![Lang](https://skillicons.dev/icons?i=brew,apple,bash,powershell,linux)](https://skillicons.dev)
