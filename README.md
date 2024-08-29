@@ -58,8 +58,3 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 -->
 
 [![Lang](https://skillicons.dev/icons?i=bash,powershell,linux)](https://skillicons.dev)
-
-
-#  
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
