@@ -25,7 +25,6 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 <br>Server-Side Optimization: Whether it’s performance tuning or designing scalable architectures, I’m always up for a discussion.
 <br>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" height=350px width=100% />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pertinaz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&margin-w=4)<br/>
@@ -57,4 +56,5 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 -->
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" height=350px width=100% />
 [![Lang](https://skillicons.dev/icons?i=apple,bash,powershell,linux)](https://skillicons.dev)
