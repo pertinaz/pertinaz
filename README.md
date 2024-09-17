@@ -57,4 +57,5 @@ Backend Development: From designing APIs to optimizing databases, I'm passionate
 -->
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwOGxuYThwaTQxdTExYXh0NWp3MXN4NzNpaWZkandxdDV4MmZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp" alt="outro" height=350px width=100% />
+
 [![Lang](https://skillicons.dev/icons?i=apple,bash,powershell,linux)](https://skillicons.dev)
